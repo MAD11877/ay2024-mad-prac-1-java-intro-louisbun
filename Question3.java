@@ -15,5 +15,6 @@ public class Question3
 
     int m = i * i;
     System.out.println(m);
+    
   }
 }
