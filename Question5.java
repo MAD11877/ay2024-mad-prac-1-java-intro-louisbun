@@ -36,7 +36,7 @@ public class Question5
       intList.add(i);
     }
 
-    int highest;
+    int highest = 0;
     int mode;
     for(int i : intList){
       int count = 0;
